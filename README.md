@@ -2,7 +2,7 @@
 Assignment 5 : Industrial AI for Structural Health Monitoring
 
 
-<img width="442" height="175" alt="{E4FC05D2-909A-4EDC-9A3C-321B95E1900B}" src="https://github.com/user-attachments/assets/245125e9-55a9-43fa-8b5d-0758070beb22" />
+<img width="421" height="160" alt="{682B79D6-075B-4350-BCF0-CB01F130D9B6}" src="https://github.com/user-attachments/assets/13c62e84-4162-4a7a-ad30-4bacc6f410c0" />
 
 
 
