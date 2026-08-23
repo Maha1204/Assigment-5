@@ -33,10 +33,7 @@ def show_scatter(x, y, title="2D Scatter"):
 # Task 1: Ground Level Detection
 
 def get_ground_level(pcd, num_bins=100, dataset_name="dataset"):
-    """
-    Finds the ground level using a height histogram (np.histogram).
-    The ground represents the peak/mode in Z distribution.
-    """
+    
     z_coords = pcd[:, 2]
     counts, bin_edges = np.histogram(z_coords, bins=num_bins)
     
